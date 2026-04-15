@@ -22,12 +22,19 @@ Explain your design in plain language.
 Some prompts to answer:
 
 - What features does each `Song` use in your system
-  - For example: genre, mood, energy, tempo
+  - genre, mood, energy, valence
 - What information does your `UserProfile` store
+  - preferred values for genre, mood, energy, and valence
 - How does your `Recommender` compute a score for each song
+  - The recommender shall compute what song what song is played next.
 - How do you choose which songs to recommend
+  - The algo will take the absolute difference of User and Song scores 
+    and inverting them, multiplying each one by its corresponding weight 
+    and then summing them all together. 
 
-You can include a simple diagram or bullet list if helpful.
+![Scoring Formula](/assets/scoring.png)
+
+![Weights Chart](/assets/weights.png)
 
 ---
 
