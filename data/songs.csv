@@ -9,3 +9,13 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Blinding Lights,The Weeknd,synthwave,energetic,0.88,171,0.73,0.90,0.06
+12,Golden Hour,JVKE,pop,romantic,0.61,97,0.92,0.74,0.44
+13,Redbone,Childish Gambino,r&b,moody,0.55,96,0.62,0.78,0.21
+14,Bohemian Rhapsody,Queen,rock,intense,0.84,144,0.45,0.40,0.15
+15,Clair de Lune,Claude Debussy,classical,peaceful,0.18,60,0.70,0.22,0.98
+16,Lose Yourself,Eminem,hip-hop,intense,0.95,171,0.38,0.71,0.02
+17,Summertime Sadness,Lana Del Rey,indie pop,melancholic,0.47,126,0.30,0.55,0.42
+18,Take Five,Dave Brubeck Quartet,jazz,relaxed,0.34,170,0.67,0.48,0.85
+19,Waist Deep,Burna Boy,afrobeats,happy,0.80,102,0.88,0.92,0.23
+20,Skinny Love,Bon Iver,folk,sad,0.28,87,0.22,0.38,0.94

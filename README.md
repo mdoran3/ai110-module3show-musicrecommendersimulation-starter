@@ -11,8 +11,6 @@ Your goal is to:
 - Evaluate what your system gets right and wrong
 - Reflect on how this mirrors real world AI recommenders
 
-Replace this paragraph with your own summary of what your version does.
-
 ---
 
 ## How The System Works
@@ -35,6 +33,8 @@ Some prompts to answer:
 ![Scoring Formula](/assets/scoring.png)
 
 ![Weights Chart](/assets/weights.png)
+
+![System Flow Diagram](/assets/system_flow_diagram.png)
 
 ---
 

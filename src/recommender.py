@@ -27,7 +27,7 @@ class UserProfile:
     favorite_genre: str
     favorite_mood: str
     target_energy: float
-    likes_acoustic: bool
+    target_valence: float = 0.5
 
 class Recommender:
     """
