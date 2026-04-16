@@ -34,10 +34,13 @@ Some prompts to answer:
     on "mood" criteria to make informed decisions. Adjusting "mood" down could
     help eliminate some bias, but leaving "genre" heavily weighted is recommended. 
 
+### Scoring Formula
 ![Scoring Formula](/assets/scoring.png)
 
+### Weights Chart
 ![Weights Chart](/assets/weights.png)
 
+### System Flow Diagram
 ![System Flow Diagram](/assets/system_flow_diagram.png)
 
 ---
