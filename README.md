@@ -29,6 +29,10 @@ Some prompts to answer:
   - The algo will take the absolute difference of User and Song scores 
     and inverting them, multiplying each one by its corresponding weight 
     and then summing them all together. 
+- Algorithmic Bias
+  - Note that the algorithm prioritizes "genre" and from there heavily leans
+    on "mood" criteria to make informed decisions. Adjusting "mood" down could
+    help eliminate some bias, but leaving "genre" heavily weighted is recommended. 
 
 ![Scoring Formula](/assets/scoring.png)
 
