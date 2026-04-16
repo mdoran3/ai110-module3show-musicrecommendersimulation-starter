@@ -43,6 +43,9 @@ Some prompts to answer:
 ### System Flow Diagram
 ![System Flow Diagram](/assets/system_flow_diagram.png)
 
+### Output Example
+![Song Recommendations Output](/assets/recommendations.png)
+
 ---
 
 ## Getting Started

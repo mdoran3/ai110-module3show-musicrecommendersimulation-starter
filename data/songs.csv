@@ -19,3 +19,23 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 18,Take Five,Dave Brubeck Quartet,jazz,relaxed,0.34,170,0.67,0.48,0.85
 19,Waist Deep,Burna Boy,afrobeats,happy,0.80,102,0.88,0.92,0.23
 20,Skinny Love,Bon Iver,folk,sad,0.28,87,0.22,0.38,0.94
+21,Strobe,deadmau5,electronic,intense,0.78,128,0.55,0.72,0.04
+22,Sandstorm,Darude,electronic,intense,0.94,136,0.62,0.88,0.02
+23,Midnight City,M83,electronic,moody,0.81,107,0.58,0.76,0.08
+24,Breathe,Télépopmusik,electronic,chill,0.44,100,0.66,0.60,0.30
+25,Levels,Avicii,electronic,happy,0.90,126,0.82,0.85,0.05
+26,Teardrop,Massive Attack,electronic,melancholic,0.38,96,0.34,0.52,0.27
+27,One More Time,Daft Punk,electronic,happy,0.88,123,0.87,0.91,0.03
+28,Ghosts 'n' Stuff,deadmau5,electronic,intense,0.85,128,0.50,0.80,0.06
+29,Comptine d'un autre été,Yann Tiersen,classical,peaceful,0.22,76,0.64,0.30,0.97
+30,God's Plan,Drake,hip-hop,moody,0.62,77,0.43,0.78,0.12
+31,Lovely Day,Bill Withers,soul,happy,0.65,95,0.90,0.72,0.54
+32,Electric Feel,MGMT,indie pop,energetic,0.79,119,0.76,0.83,0.14
+33,Runaway,Kanye West,hip-hop,melancholic,0.50,88,0.28,0.45,0.11
+34,The Less I Know The Better,Tame Impala,indie pop,moody,0.72,116,0.60,0.80,0.20
+35,Flamenco Sketches,Miles Davis,jazz,peaceful,0.25,68,0.58,0.36,0.91
+36,Ain't No Sunshine,Bill Withers,soul,sad,0.40,82,0.24,0.50,0.68
+37,Pyramids,Frank Ocean,r&b,moody,0.58,90,0.38,0.62,0.30
+38,Numb,Linkin Park,rock,intense,0.87,114,0.33,0.68,0.07
+39,Autumn Leaves,Chet Baker,jazz,melancholic,0.30,110,0.42,0.44,0.88
+40,Cruel Summer,Kygo,electronic,happy,0.83,128,0.79,0.84,0.10
